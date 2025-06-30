@@ -9,7 +9,7 @@ const productsData = {
             name: "Eco-voile",
             description: "Varias Medidas",
             price: "$ 5.945,00",
-            image: "productos/cortina_voile.jpg",
+            image: "productos/cortineria/cortina_voile.jpg",
             alt: "Eco-voile",
             colors: [{ name: "blanca", hex: "white" }]
         },
@@ -17,7 +17,7 @@ const productsData = {
             name: "Voile tradicional",
             description: "Varias Medidas",
             price: "$ 7.540,00",
-            image: "productos/cortina_voile.jpg",
+            image: "productos/cortineria/cortina_voile.jpg",
             alt: "Voile tradicional"
         },
         {
